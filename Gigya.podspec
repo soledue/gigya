@@ -11,7 +11,7 @@
     "Ivo Kanev - Podspec Maintainer": "soledue@gmailcom"
   },
   "source": {
-    "http": "https://github.com/soledue/gigya/blob/master/Gigya-iOS-3.6.3.zip"
+    "http": "https://raw.githubusercontent.com/soledue/gigya/master/Gigya-iOS-3.6.3.zip"
   },
   "requires_arc": false,
   "platforms": {
