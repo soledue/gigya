@@ -15,7 +15,7 @@
   },
   "requires_arc": false,
   "platforms": {
-    "ios": "10.0"
+    "ios": "8.0"
   },
   "ios": {
     "frameworks": [
