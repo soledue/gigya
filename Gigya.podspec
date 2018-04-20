@@ -1,6 +1,6 @@
 {
   "name": "Gigya-iOSSDK",
-  "version": "3..3",
+  "version": "3.6.3",
   "summary": "The iOS client library provides an Objective-C interface for the Gigya API",
   "homepage": "http://developers.gigya.com/display/GD/iOS",
   "authors": {
